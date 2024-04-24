@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faith Okpala</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 💬 Ask me about **node, react, next, graphql**
+- 💬 Ask me about **node, react, next, nest, graphql**
 
 - 📫 How to reach me **okpalafaith1@gmail.com**
 
